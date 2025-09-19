@@ -30,12 +30,12 @@ designers and marketers to beginners exploring new ideas.
     <tbody>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/c93fb39f-f592-4217-8ee4-dbd959d08c5f" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/72792d19-5c0c-484b-9251-105b08553491" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
